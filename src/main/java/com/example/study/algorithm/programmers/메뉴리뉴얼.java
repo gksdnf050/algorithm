@@ -33,9 +33,6 @@ class 메뉴리뉴얼 {
                 }
             });
 
-            for(MenuCombi m : menuCombis) {
-
-            }
             if(menuCombis.size() > 0) {
                 int max = menuCombis.get(0).count;
                 for(MenuCombi m : menuCombis) {

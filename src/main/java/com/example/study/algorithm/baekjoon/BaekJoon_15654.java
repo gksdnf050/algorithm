@@ -4,10 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class BaeckJoon_15654 {
+public class BaekJoon_15654 {
     static int[] input;
     static int[] output;
     static boolean[] check;

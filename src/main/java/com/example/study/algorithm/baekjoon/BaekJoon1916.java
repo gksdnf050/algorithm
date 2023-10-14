@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class BaekJoon_1916 {
+public class BaekJoon1916 {
     static List<Edge>[] list;
     static int[] dist;
     static boolean[] check;

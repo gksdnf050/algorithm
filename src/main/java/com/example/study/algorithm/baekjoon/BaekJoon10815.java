@@ -4,12 +4,12 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BaekJoon_10815 {
+public class BaekJoon10815 {
     public int M;
     public int N;
     public int[] base;
     public static void main(String[] args) throws IOException {
-        BaekJoon_10815 bj = new BaekJoon_10815();
+        BaekJoon10815 bj = new BaekJoon10815();
         bj.solve();
     }
 

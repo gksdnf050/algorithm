@@ -1,12 +1,9 @@
 package com.example.study.algorithm.baekjoon;
 
-import java.io.BufferedReader;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class BaekJoon_9012 {
+public class BaekJoon9012 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();

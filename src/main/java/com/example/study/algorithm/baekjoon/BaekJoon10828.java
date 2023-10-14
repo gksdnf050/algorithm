@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BaekJoon_10828 {
+public class BaekJoon10828 {
     public static int[] stack;
     public static int size = 0;
 

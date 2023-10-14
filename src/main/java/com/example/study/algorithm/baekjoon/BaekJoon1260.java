@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class BaekJoon_1260 {
+public class BaekJoon1260 {
     private static int N;
     private static int M;
     private static int V;

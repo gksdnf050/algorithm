@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BaekJoon_15654 {
+public class BaekJoon15654 {
     static int[] input;
     static int[] output;
     static boolean[] check;

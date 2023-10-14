@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BaekJoon_4963 {
+public class BaekJoon4963 {
     static int w;
     static int h;
     static int arr[][];

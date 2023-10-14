@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class BaekJoon_1759 {
+public class BaekJoon1759 {
     private int L;
     private int C;
     private String[] input;
@@ -16,7 +16,7 @@ public class BaekJoon_1759 {
     );
 
     public static void main(String[] args) throws IOException {
-        BaekJoon_1759 bj = new BaekJoon_1759();
+        BaekJoon1759 bj = new BaekJoon1759();
         bj.solve();
     }
 

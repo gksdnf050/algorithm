@@ -34,7 +34,7 @@ fun main() {
                 temp.push(num2 - num1)
             }
             else -> {
-                temp.push(numArray[(it - 65).code])
+                temp.push(numArray[it - 'A'])
             }
         }
     }

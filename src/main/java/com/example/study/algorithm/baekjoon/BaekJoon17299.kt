@@ -16,7 +16,7 @@ fun main() {
         count[it] = (count[it] ?: 0) + 1
     }
 
-    input.forEachIndexed{index, value ->
+    input.forEachIndexed{ index, value ->
         while (temp.isNotEmpty() && (count[value] ?: 0) > (count[input[temp.peek()]] ?: 0)) {
             result[temp.pop()] = value
         }
